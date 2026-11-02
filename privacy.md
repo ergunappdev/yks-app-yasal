@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-**Son güncelleme:** 24 Ekim 2026
+**Son güncelleme:** 2 Kasım 2026
 
 Bu Gizlilik Politikası, **YKS Evreni** ("Uygulama") kullanılırken verilerinin nasıl işlendiğini açıklar. Uygulama, gizliliğini önceleyen bir yapıyla tasarlanmıştır.
 
@@ -20,7 +20,8 @@ Giriş yapmak isteğe bağlıdır ve yalnızca **Google** ya da **Apple** hesab�
 
 - **Kimlik bilgileri:** Hesabını tanımlamak için Google ya da Apple'ın paylaştığı ad ve e-posta adresi. Apple ile girişte e-postanı gizlemeyi seçebilirsin. E-posta adresin diğer kullanıcılara hiçbir zaman gösterilmez.
 - **Liderlik tablosu:** Görünen adın ile haftalık, aylık ve toplam çözdüğün soru ve doğru sayıların.
-- **İlerleme yedeği:** Yalnızca "Buluta Yedekle"yi kullanırsan ilerleme verilerin.
+- **İlerleme yedeği:** Giriş yaptığında çözdüğün testler, yanlışların, notların ve diğer ilerleme verilerin otomatik olarak yedeklenir; böylece uygulamayı silip yeniden yüklediğinde ya da başka cihazda giriş yaptığında ilerlemen geri gelir.
+- **Hata Defteri fotoğrafları:** Hata Defteri'ne eklediğin soru ve çözüm fotoğrafları, giriş yaptıysan Firebase Storage'a yedeklenir. Bu fotoğrafları yalnızca sen görebilirsin; kaydı sildiğinde buluttaki kopyası da silinir.
 - **Sosyal özellikler:** Kullanırsan arkadaş kodun, arkadaşlıkların, çalışma grupların, gönderdiğin mesajlar, düello kayıtların ve "şu an çalışıyor" durumun.
 
 Görünen adın ve çalışma durumun giriş yapmış diğer kullanıcılara görünebilir. Mesajların yalnızca sohbetin taraflarına ya da grubun üyelerine görünür.
@@ -46,7 +47,7 @@ Uygulamada reklam ve reklam amaçlı izleme yoktur. Kişisel verilerin reklam ya
 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında verilerine erişme, düzeltilmesini ya da silinmesini isteme hakkına sahipsin. Bunun için uygulamadaki seçenekleri kullanabilir ya da bize yazabilirsin:
 
 - **Çıkış Yap:** Buluttaki verilerin kalır, bu cihazdan erişim kapanır. Cihazdaki ilerlemen silinmez.
-- **Hesabı ve Tüm Verileri Sil:** Hesabın ve buluta kaydedilmiş tüm verilerin (liderlik tablosu kayıtların, yedeğin, arkadaşlıkların ve mesajların dahil) sunucularımızdan kalıcı olarak silinir.
+- **Hesabı ve Tüm Verileri Sil:** Hesabın ve buluta kaydedilmiş tüm verilerin (liderlik tablosu kayıtların, yedeğin, Hata Defteri fotoğrafların, arkadaşlıkların ve mesajların dahil) sunucularımızdan kalıcı olarak silinir.
 
 ## 7. Değişiklikler
 
