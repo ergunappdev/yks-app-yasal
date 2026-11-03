@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-**Son güncelleme:** 2 Kasım 2026
+**Son güncelleme:** 3 Kasım 2026
 
 Bu Gizlilik Politikası, **YKS Evreni** ("Uygulama") kullanılırken verilerinin nasıl işlendiğini açıklar. Uygulama, gizliliğini önceleyen bir yapıyla tasarlanmıştır.
 
@@ -40,7 +40,11 @@ Uygulamada reklam ve reklam amaçlı izleme yoktur. Kişisel verilerin reklam ya
 
 ## 5. Bildirimler
 
-Çalışma hatırlatmaları, cihazında oluşturulan yerel bildirimlerdir; bunun için sunucuya veri gönderilmez. Bildirimleri istediğin zaman Profil > Bildirimler bölümünden kapatabilirsin.
+Çalışma hatırlatmaları, cihazında oluşturulan yerel bildirimlerdir; bunun için sunucuya veri gönderilmez.
+
+Giriş yaptıysan ve izin verdiysen, sana gelen mesajlar, arkadaşlık istekleri ve grup davetleri için anlık bildirim gönderilir. Bunun için cihazının bildirim adresi (Firebase Cloud Messaging belirteci) hesabınla ilişkilendirilerek saklanır; bildirimde gönderenin adı ve mesajın kısa bir önizlemesi yer alır. Bu belirteç yalnızca bildirim göndermek için kullanılır; bildirimleri kapattığında gönderim durur, çıkış yaptığında ya da hesabını sildiğinde belirteç silinir.
+
+Bildirimleri istediğin zaman Profil > Bildirimler bölümünden ya da cihazının ayarlarından kapatabilirsin. Uygulamanın hiçbir özelliği bildirim iznine bağlı değildir.
 
 ## 6. Hakların ve Hesap Silme
 
